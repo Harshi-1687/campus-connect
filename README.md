@@ -116,34 +116,9 @@ In many colleges, event information is scattered across WhatsApp groups, posters
 
 ---
 
-## 🧩 Architecture Overview
-
-Frontend (React + Tailwind)
-|
-v
-Supabase Auth ----> Supabase Database
-|
-v
-Google Gemini API (AI Description Enhancement)
-
-
----
-
-## 📸 MVP Snapshots
-
-> Screenshots to be added:
-- Landing Page
-- Login & Register
-- Event Dashboard
-- Create Event (AI Feature)
-- Event Registration Modal
-
----
-
 ## 🌱 Future Enhancements
 
 - Past events rating & feedback system
-- Admin dashboard
 - Event analytics for clubs
 - Email / notification reminders
 - QR-based event check-in
