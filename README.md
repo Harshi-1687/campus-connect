@@ -18,7 +18,7 @@ In many colleges, event information is scattered across WhatsApp groups, posters
 
 ## 💡 Our Solution
 
-**Campus Events Platform** provides a **single centralized web platform** where:
+**Campus Connect** provides a **single centralized web platform** where:
 
 - Clubs can create, edit, and manage events
 - Students can easily browse, filter, and register for events
@@ -99,8 +99,6 @@ In many colleges, event information is scattered across WhatsApp groups, posters
 - **Google Gemini AI**
   - AI-assisted content generation
   - Improves event descriptions dynamically
-- **Google Developer Ecosystem**
-  - Project aligned with GDG On Campus initiatives
 
 ---
 
