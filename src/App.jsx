@@ -34,7 +34,6 @@ function ProtectedRoute({ children, allowedRoles }) {
   return children;
 }
 
-
 function App() {
   return (
     <BrowserRouter>
@@ -57,15 +56,19 @@ function App() {
           />
 
           <Route
-            path="/event/:id/registrations"
-            element={<EventRegistrations />}
-          />
-
-          <Route
             path="/create"
             element={
               <ProtectedRoute allowedRoles={["club"]}>
                 <CreateEvent />
+              </ProtectedRoute>
+            }
+          />
+
+          <Route
+            path="/event/:id/registrations"
+            element={
+              <ProtectedRoute allowedRoles={["club"]}>
+                <EventRegistrations />
               </ProtectedRoute>
             }
           />
