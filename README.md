@@ -128,7 +128,7 @@ In many colleges, event information is scattered across WhatsApp groups, posters
 
 ## 🔗 MVP Link
 
-👉 **Deployed Website:** _(Add your deployed URL here)_
+👉 **Deployed Website:** (https://campus-connect-six-vert.vercel.app/)
 
 ---
 
